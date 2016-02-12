@@ -1,0 +1,7 @@
+The mod BahamutoD's Armory, for Kerbal Space Program, is developed by Paolo Encarnacion (BahamutoD) and distributed under the license CC-BY-SA 2.0.
+The items contained within are modified by Shuudoushi using resources made by BahamutoD.
+Please read about the license at
+
+https://creativecommons.org/licenses/by-sa/2.0/
+
+before attempting to modify and redistribute it.
